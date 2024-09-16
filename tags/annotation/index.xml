@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annotation on Sidratul Montaha</title>
+    <link>https://sidratul343.github.io/Website/tags/annotation/</link>
+    <description>Recent content in Annotation on Sidratul Montaha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sidratul343.github.io/Website/tags/annotation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cardiac Data Annotation</title>
+      <link>https://sidratul343.github.io/Website/blog/p7an-analysis-of-data-science-job/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidratul343.github.io/Website/blog/p7an-analysis-of-data-science-job/</guid>
+      <description>In this project, I used 3D Slicer to annotate the fat tissue surrounding the pericardium of the heart from 3D heart CT scans. The objective was to accurately identify and label the pericardial fat tissue to create a well-annotated dataset for further analysis. This detailed annotation work was essential for enhancing the understanding of the relationship between pericardial fat and cardiac health, with potential implications for cardiovascular risk assessment and treatment strategies.</description>
+    </item>
+    
+  </channel>
+</rss>

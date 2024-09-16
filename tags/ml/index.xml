@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on Sidratul Montaha</title>
+    <link>https://sidratul343.github.io/Website/tags/ml/</link>
+    <description>Recent content in ML on Sidratul Montaha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sidratul343.github.io/Website/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loss Function</title>
+      <link>https://sidratul343.github.io/Website/blog/p3salary-classifier/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidratul343.github.io/Website/blog/p3salary-classifier/</guid>
+      <description> Developed novel loss function for semantic segmentation (Submitted in WACV 2025)  </description>
+    </item>
+    
+    <item>
+      <title>Cyst Prediction</title>
+      <link>https://sidratul343.github.io/Website/blog/p8sales-insights-using-powerbi/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidratul343.github.io/Website/blog/p8sales-insights-using-powerbi/</guid>
+      <description>In this project, I focused on predicting kidney cysts using advanced machine learning techniques. The goal was to develop a model capable of accurately identifying and predicting the formation of cysts in the kidney based on medical imaging data and patient records. The project involved preprocessing large datasets, feature extraction, and the application of predictive algorithms to assess the likelihood of cyst formation. The model aimed to assist clinicians in early detection and improve decision-making for treatment strategies.</description>
+    </item>
+    
+    <item>
+      <title>Point Cloud</title>
+      <link>https://sidratul343.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidratul343.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</guid>
+      <description>In this project, I focused on the analysis of cardiac components from 3D heart CT scans, employing advanced techniques in medical image processing. The project involved segmenting the heart and its key structures from volumetric CT data, followed by converting the segmented components into point clouds for further analysis. By using point clouds, I was able to represent the intricate geometric details of the heart&amp;rsquo;s anatomy with high precision. This approach facilitated more detailed examination of the spatial relationships between different cardiac structures, which could be used to support various clinical applications such as surgical planning, disease diagnosis, and treatment evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Segmentation of Cardiac components.</title>
+      <link>https://sidratul343.github.io/Website/blog/p6face-matching-classifier/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidratul343.github.io/Website/blog/p6face-matching-classifier/</guid>
+      <description>In this project, I utilized the UNTER model specifically for the segmentation of cardiac components from 3D heart CT scans. The focus was on accurately isolating key cardiac structures within the volumetric CT data, ensuring precise boundaries and detailed anatomical segmentation. The UNTER model’s capabilities allowed for highly efficient and reliable segmentation, providing a solid foundation for further analysis and clinical applications such as diagnostics, treatment planning, and surgical guidance. This project solely emphasized the segmentation process, without delving into subsequent point cloud analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
